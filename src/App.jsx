@@ -1,5 +1,5 @@
-export function App() {
-  throw new Error('Eita Dayane, a taça quebrou!')
+import './styles/global.scss';
 
+export function App() {
   return <h1>Hello ReactJS</h1>
 }
